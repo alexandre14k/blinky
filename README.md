@@ -1,6 +1,8 @@
 # blinky
 STM32F411RE with embedded rust no_std bare metal blinky app.
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/blinky&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 # Setup
 Designed for **Linux Mint 22.2** (Ubuntu 24.04).<br>
 Open a terminal and run the following:<br>
