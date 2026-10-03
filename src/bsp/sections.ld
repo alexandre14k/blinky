@@ -32,7 +32,7 @@ SECTIONS
 
   .heap (COPY) : {
     __heap_start = .;
-    . = . + 8K;
+    . = . + 32;
     __heap_end = .;
   } > RAM
 }
