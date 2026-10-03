@@ -1,5 +1,5 @@
 # blinky
-STM32F411RE with embedded rust no_std bare metal blinky app.
+NUCLEO-F411RE with embedded rust no_std bare metal blinky app.
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/blinky&label=Views&labelColor=%23555555&countColor=%23007EC6)
 
@@ -46,10 +46,10 @@ section             size        addr
 .ARM.exidx            16   0x8000254
 .data                  0  0x20000000
 .bss                  28  0x20000000
-.heap               8192         0x0
+.heap                 32         0x0
 .comment             148         0x0
 .ARM.attributes       60         0x0
-Total               9040
+Total                880
 ```
 
 ## License
